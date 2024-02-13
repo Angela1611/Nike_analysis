@@ -47,27 +47,33 @@ After performing the necessary procedures for the analysis, the following result
 
 There were many products that had not been rated, so for the realization of this graph, the values were filtered. In this graph, it can be evidenced that overall, the ratings of the products are largely distributed between 4 and 5 points, however, the vast majority of products were rated with a score of 5.
 
-![](01.Overall_products_rating.png)
+![01 Overall_products_rating](https://github.com/Angela1611/Nike_analysis/assets/158333155/afa2b28f-8bd6-4fd5-af79-eac7f00bedcb)
+
 
 Subsequently, a percentage analysis of the scores was performed, resulting in the majority of scores being between 4 and 5 points, which translates into very high overall satisfaction from customers.
 
-![](02.Rating_Products_Percentage.png)
+![02 Rating_Products_Percentage](https://github.com/Angela1611/Nike_analysis/assets/158333155/d21244aa-5e5f-4d37-afb4-e18b5cbc2e29)
+
 
 A filter was applied to determine those products in which customers had given the most reviews; since this indicates that customers liked the product so much that they placed considerable emphasis on sharing their opinion and recommending the product. This was the result for the top 10 products most liked by the public.
 
-![](05.Top_10_products.png)
+![05 Top_10_products](https://github.com/Angela1611/Nike_analysis/assets/158333155/66e4cd10-9569-40a0-a942-26be976b8fbf)
+
 
 Similarly, a filter was applied to determine those products with the most reviews scoring less than 3, as this suggests that customers disliked the product so much that they also placed a lot of emphasis on sharing their negative opinion about it. This was the result for the 10 most criticized and lowest-rated products.
 
-![](06.Lower_10_products.png)
+![06 Lower_10_products](https://github.com/Angela1611/Nike_analysis/assets/158333155/511be604-9f19-4c76-bfcf-bfe465470d30)
+
 
 Subsequently, a scatter plot was made to determine if there was any relationship between the sale price and the rating given to the products. The graph suggests that although not very pronounced, there is a slight accumulation of positive rankings towards the price range between 5000 and 15000, which allows us to deduce that customers feel satisfied to purchase a very good product in a medium price range.
 
-![](03.Sales_price_vs_rating.png)
+![03 Sales_price_vs_rating](https://github.com/Angela1611/Nike_analysis/assets/158333155/e2a2dfa9-856a-4ced-bb6e-6f7189bc4a4b)
+
 
 The relationship between sales price and the number of reviews given was also analyzed. The graph allows us to conclude that indeed, probably the highest number of sales and therefore reviews are given towards the range between 5000 and 15000.
 
-![](04.Sales_price_vs_reviews.png)
+![04 Sales_price_vs_reviews](https://github.com/Angela1611/Nike_analysis/assets/158333155/8981b229-db54-4b35-84ca-7efb66778bf3)
+
 
 
 #### **6. Act**
